@@ -1,7 +1,5 @@
 import httpx
 import time
-import telebot
-from telebot import types
 
 update_id = None
 
